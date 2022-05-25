@@ -108,6 +108,16 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Sabrina",
+      "species": "Sloth",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "11"
     }
   ]
 }
